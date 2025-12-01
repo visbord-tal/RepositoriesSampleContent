@@ -14,7 +14,7 @@
             "kind": "Scheduled",
             "apiVersion": "2022-11-01-preview",
             "properties": {
-                "displayName": "Account created or deleted by non-approved user",
+                "displayName": "test Account created or deleted by non-approved user test",
                 "description": "Identifies accounts that were created or deleted by a defined list of non-approved user principal names. Add to this list before running the query for accurate results.\nRef : https://docs.microsoft.com/azure/active-directory/fundamentals/security-operations-user-accounts",
                 "severity": "Medium",
                 "enabled": true,

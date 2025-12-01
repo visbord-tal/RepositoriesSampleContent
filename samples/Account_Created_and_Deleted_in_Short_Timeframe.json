@@ -14,7 +14,7 @@
             "kind": "Scheduled",
             "apiVersion": "2022-09-01-preview",
             "properties": {
-                "displayName": "Account Created and Deleted in Short Timeframe",
+                "displayName": "test Account Created and Deleted in Short Timeframe test",
                 "description": "Search for user principal name (UPN) events. Look for accounts created and then deleted in under 24 hours. Attackers may create an account for their use, and then remove the account when no longer needed.\nRef : https://docs.microsoft.com/azure/active-directory/fundamentals/security-operations-user-accounts#short-lived-account",
                 "severity": "Medium",
                 "enabled": true,
